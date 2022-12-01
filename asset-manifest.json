@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashboard-firebase/static/css/main.8e006228.css",
+    "main.js": "/dashboard-firebase/static/js/main.f076b9f8.js",
+    "index.html": "/dashboard-firebase/index.html",
+    "main.8e006228.css.map": "/dashboard-firebase/static/css/main.8e006228.css.map",
+    "main.f076b9f8.js.map": "/dashboard-firebase/static/js/main.f076b9f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e006228.css",
+    "static/js/main.f076b9f8.js"
+  ]
+}
